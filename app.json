@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "basic"
     }
   },
   "addons": [
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/GoFileBot",
+  "repository": "https://github.com/Kresswell/GoFileBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
